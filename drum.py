@@ -1,1 +1,1 @@
-print("Bute")
+print("Bute ke tatte phute")
